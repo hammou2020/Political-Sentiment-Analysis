@@ -24,8 +24,7 @@ This dataset contains the results from contributors analyzing thousands of socia
 ***
 
 ### Intent:
-
-From this point, I will: 
+ 
 1. Explore, clean, and modify the political message dataset to determine meaningful relationships between certain words and message types as indictaed by qualified human assessors from varying social media posts.
 
 2. Determine how certain words in tweets/posts are correlated with political messages using heatmap/wordcloud.
